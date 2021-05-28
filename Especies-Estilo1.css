@@ -1,0 +1,97 @@
+header {
+text-align: center;
+Background-color:#7C92BC;
+padding:10px;
+margin-bottom:20px;
+}
+
+
+nav{
+Background-color: #DAE1F1;
+Text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 10px;
+margin-top: 10px;
+Height:20px;
+display:block;
+Font-size: 18px;
+}
+
+a{
+text-align: center;
+font-weight:bold;
+font-family:adrianna;
+padding:25px;
+margin-bottom:10px;
+Color:#3C4366;
+Font-size: 18px;
+}
+
+a:hover {
+color:#759A78;
+}
+
+Div {
+Background-color:#CAE6CF;
+border: 20px solid white;
+padding-top: 5px;
+padding-right: 20px;
+padding-bottom: 10px;
+Padding-left: 30px;
+}
+
+ol{
+text-align: left;
+padding:25px;
+margin-bottom:10px;
+Color:white;
+Font-size: 15px;
+}
+
+h1 {
+text-align: center;
+font-family: 'Roboto Slab', serif;
+padding:20px;
+margin-bottom:10px;
+Color:white;
+Font-size: 55px;
+}
+
+H2 {
+text-align: center;
+font-family:avenir;
+padding:25px;
+margin-bottom:10px;
+Color:#3C4366;
+Font-size: 35px;
+}
+
+P {
+text-align: left;
+font-family:avenir;
+padding:25px;
+margin-bottom:10px;
+Color:#0F1C35;
+Font-size: 15px;
+}
+
+.right {
+Float:right;
+Padding-left: 20px;
+Padding-bottom: 10px;
+}
+
+
+body{
+Background-color:#A3C0DA
+}
+
+Footer {
+Text-align: center;
+Padding:15px;
+Font-family:avenir;
+Font-size: 12px;
+Font-style: italic;
+Color:#0F1C35;
+}
